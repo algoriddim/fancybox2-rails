@@ -11,7 +11,7 @@ First add the following lines to your applications `Gemfile`:
 
 ``` ruby
 gem 'jquery-rails'
-gem 'fancybox2-rails', '~> 0.2.8'
+gem 'fancybox2-rails', '~> 0.3.0', github: algoriddim/fancybox2-rails
 ```
 
 Then run `bundle install` to update your application's bundle.
